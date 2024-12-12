@@ -4,6 +4,6 @@
 
 @layer base {
   .font-title {
-    @apply text-4xl font-bold font-italic;
+    @apply text-4xl font-bold;
   }
 }
