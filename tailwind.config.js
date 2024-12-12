@@ -3,7 +3,7 @@ export default {
   content: [],
   theme: {
     extend: {
-      color: {
+      colors: {
         brand: '#ff00f8',
       },
     },
